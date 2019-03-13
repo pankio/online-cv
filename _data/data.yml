@@ -39,13 +39,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      My name is Panagiotis Karampikas and I'm 21 years old. I'm student at Ionian University and I'm from Arta, Greece.
+      I am a holder of a certification in cars.
 
 education:
     - degree: BSc in Department of Informatics
@@ -62,19 +57,6 @@ education:
           - Web Design
           - Information Systems
           - E-Business
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     
